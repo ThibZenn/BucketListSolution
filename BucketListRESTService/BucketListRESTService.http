@@ -1,0 +1,6 @@
+@BucketListRESTService_HostAddress = http://localhost:5264
+
+GET {{BucketListRESTService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
